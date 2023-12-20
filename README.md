@@ -1,7 +1,7 @@
 As-salamu alaykum![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md. Abu Hassan Nayeem
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif);+I'm+Nayeem!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%3Cimg+src%3D%22https%3A%2F%2Fuser-images.githubusercontent.com%2F18350557%2F176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif%22%3E;+I'm+Nayeem!;" />
 </h1>
 ============================================================================================================================================
 
