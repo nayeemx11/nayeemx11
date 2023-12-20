@@ -2,16 +2,16 @@ As-salamu alaykum![](https://user-images.githubusercontent.com/18350557/17630978
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=
-    AR-RAHMAAN The Most or Entirely Merciful;
-    AR-RAHEEM The Bestower of Mercy;
-    AL-MALIK The King and Owner of Dominion;
-    AL-QUDDUS The Absolutely Pure;
-    AS-SALAM The Perfection and Giver of Peace;
-    AL-MU’MIN The One Who gives Emaan and Security;
-    AL-MUHAYMIN The Guardian, The Witness, The Overseer;
-    AL-AZEEZ The All Mighty;
-    AL-JABBAR The Compeller, The Restorer;
-    AL-MUTAKABBIR The Supreme, The Majestic;">
+    &#1575;&#1604;&#0631;&#062D;&#0645;&#0627;&#0646;+AR-RAHMAAN+The+Most+or+Entirely+Merciful;
+    &#1575;&#1604;&#0631;&#062D;&#064A;&#0645;+AR-RAHEEM+The+Bestower+of+Mercy;
+    &#1575;&#1604;&#0645;&#0644;&#0643;+AL-MALIK+The+King+and+Owner+of+Dominion;
+    &#1575;&#1604;&#0642;&#0648;&#062F;&#0648;&#0633;+AL-QUDDUS+The+Absolutely+Pure;
+    &#1575;&#1604;&#0633;&#0644;&#0627;&#0645;+AS-SALAM+The+Perfection+and+Giver+of+Peace;
+    &#1575;&#1604;&#0645;&#064F&#0645;&#0646;+AL-MU’MIN+The+One+Who+gives+Emaan+and+Security;
+    &#1575;&#1604;&#0645;&#064F&#0647;&#064A;&#0645;&#0646;+AL-MUHAYMIN+The+Guardian,+The+Witness,+The+Overseer;
+    &#1575;&#1604;&#0639;&#0632;&#064A;&#0632;+AL-AZEEZ+The+All+Mighty;
+    &#1575;&#1604;&#062C;&#0628;&#0627;&#0631;+AL-JABBAR+The+Compeller,+The+Restorer;
+    &#1575;&#1604;&#0645;&#064F&#062A;&#0643;&#0627;&#0628;&#0651;&#064A;&#0631;+AL-MUTAKABBIR+The+Supreme,+The+Majestic;">
 </h1>
 
 ============================================================================================================================================
