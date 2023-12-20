@@ -4,10 +4,10 @@ As-salamu alaykum
 <h1 align="center">
     <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nayeem!;" />
 </h1>
-
 <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Greeting Animation" style="width: 500px; height: 70px; object-fit: contain; font-family: 'Righteous'; font-size: 35px;" />
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nayeem!;" alt="Greeting Animation" />
 </h1>
+
 
 ============================================================================================================================================
 
