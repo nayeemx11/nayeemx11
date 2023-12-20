@@ -3,6 +3,12 @@ As-salamu alaykum![](https://user-images.githubusercontent.com/18350557/17630978
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%3Cimg+src%3D%22https%3A%2F%2Fuser-images.githubusercontent.com%2F18350557%2F176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif%22%3E;+I'm+Nayeem!;" />
 </h1>
+
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Greeting Animation" style="width: 500px; height: 70px; object-fit: contain; font-family: 'Righteous'; font-size: 35px;" />
+</h1>
+<p align="center">Hi There! 👋; I'm Nayeem!</p>
+
 ============================================================================================================================================
 
 
