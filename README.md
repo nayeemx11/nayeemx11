@@ -17,7 +17,7 @@
 -----------------
 Software Engineer
 -----------------
-<img align="right" height="300" width="500" src="https://github.com/nayeemx11/nayeemx11/assets/63298176/9eca02ff-0e99-41a3-9fe4-36011430a1b4" />
+<img align="right" height="300" width="450" src="https://github.com/nayeemx11/nayeemx11/assets/63298176/9eca02ff-0e99-41a3-9fe4-36011430a1b4" />
 
 <!-- ![goldenboyanime](https://github.com/nayeemx11/nayeemx11/assets/63298176/9eca02ff-0e99-41a3-9fe4-36011430a1b4) -->
 
