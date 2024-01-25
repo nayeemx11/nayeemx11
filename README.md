@@ -22,7 +22,7 @@ Software Engineer
 <!-- ![goldenboyanime](https://github.com/nayeemx11/nayeemx11/assets/63298176/9eca02ff-0e99-41a3-9fe4-36011430a1b4) -->
 
 <div align="left">
-    <h4> 🌍  I'm based in Bangladesh </h4>
+    <h4> 🌍  I'm from Bangladesh </h4>
     <h4> ✉️  You can contact me at <a href="mailto:nayeemx11@gmail.com">
                  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
           </a>
