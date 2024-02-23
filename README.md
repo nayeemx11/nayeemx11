@@ -5,9 +5,7 @@
 </h1> --->
 
 <h1 align="center">
-
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=AR-RAHMAAN;+AR-RAHEEM;+AL-MALIK;+AL-QUDDUS;+AS-SALAM;+AL-MU’MIN;+AL-MUHAYMIN;+AL-AZEEZ;+AL-JABBAR;+AL-MUTAKABBIR;+AL-KHAALIQ;+AL-BAARI’;+AL-MUSAWWIR;+AL-GHAFFAR;+AL-QAHHAR;+AL-WAHHAAB;+AR-RAZZAAQ;+AL-FATTAAH;+AL-‘ALEEM;+AL-QAABID;+AL-BAASIT;+AL-KHAAFIDH;+AR-RAAFI’;+AL-MU’IZZ;+AL-MUZIL;+AS-SAMEE’;+AL-BASEER;+AL-HAKAM;+AL-‘ADL;+AL-LATEEF;+AL-KHABEER;+AL-HALEEM;+AL-‘ATHEEM;+AL-GHAFOOR;+ASH-SHAKOOR;+AL-‘ALEE;+AL-KABEER;+AL-HAFEEDH;+AL-MUQEET;+AL-HASEEB;+AL-JALEEL;+AL-KAREEM;+AR-RAQEEB;+AL-MUJEEB;+AL-WAASI’;+AL-HAKEEM;+AL-WADOOD;+AL-MAJEED;+AL-BA’ITH;+ASH-SHAHEED;+AL-HAQQ;+AL-WAKEEL;+AL-QAWIYY;+AL-MATEEN;+AL-WALIYY;+AL-HAMEED;+AL-MUHSEE;+AL-MUBDI;+AL-MU’ID;+AL-MUHYEE;+AL-MUMEET;+AL-HAYY;+AL-QAYYOOM;+AL-WAAJID;+AL-MAAJID;+AL-WAAHID;+AL-AHAD;+AS-SAMAD;+AL-QADIR;+AL-MUQTADIR;+AL-MUQADDIM;+AL-MU’AKHKHIR;+AL-AWWAL;+AL-AAKHIR;+AZ-DHAAHIR;+AL-BAATIN;+AL-WAALI;+AL-MUTA’ALI;+AL-BARR;+AT-TAWWAB;+AL-MUNTAQIM;+AL-‘AFUWW;+AR-RA’OOF;+MAALIK-UL-MULK;+DHUL-JALAALI+WAL-IKRAAM;+AL-MUQSIT;+AL-JAAMI’;+AL-GHANIYY;+AL-MUGHNI;+AL-MANI’;+AD-DHARR;+AN-NAFI’;+AN-NUR;+AL-HAADI;+AL-BADIE’;+AL-BAAQI;+AL-WAARITH;+AR-RASHEED;+AS-SABOOR;" />
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=AR-RAHMAAN;+AR-RAHEEM;+AL-MALIK;+AL-QUDDUS;+AS-SALAM;+AL-MU’MIN;+AL-MUHAYMIN;+AL-AZEEZ;+AL-JABBAR;+AL-MUTAKABBIR;+AL-KHAALIQ;+AL-BAARI’;+AL-MUSAWWIR;+AL-GHAFFAR;+AL-QAHHAR;+AL-WAHHAAB;+AR-RAZZAAQ;+AL-FATTAAH;+AL-‘ALEEM;+AL-QAABID;+AL-BAASIT;+AL-KHAAFIDH;+AR-RAAFI’;+AL-MU’IZZ;+AL-MUZIL;+AS-SAMEE’;+AL-BASEER;+AL-HAKAM;+AL-‘ADL;+AL-LATEEF;+AL-KHABEER;+AL-HALEEM;+AL-‘ATHEEM;+AL-GHAFOOR;+ASH-SHAKOOR;+AL-‘ALEE;+AL-KABEER;+AL-HAFEEDH;+AL-MUQEET;+AL-HASEEB;+AL-JALEEL;+AL-KAREEM;+AR-RAQEEB;+AL-MUJEEB;+AL-WAASI’;+AL-HAKEEM;+AL-WADOOD;+AL-MAJEED;+AL-BA’ITH;+ASH-SHAHEED;+AL-HAQQ;+AL-WAKEEL;+AL-QAWIYY;+AL-MATEEN;+AL-WALIYY;+AL-HAMEED;+AL-MUHSEE;+AL-MUBDI;+AL-MU’ID;+AL-MUHYEE;+AL-MUMEET;+AL-HAYY;+AL-QAYYOOM;+AL-WAAJID;+AL-MAAJID;+AL-WAAHID;+AL-AHAD;+AS-SAMAD;+AL-QADIR;+AL-MUQTADIR;+AL-MUQADDIM;+AL-MU’AKHKHIR;+AL-AWWAL;+AL-AAKHIR;+AZ-DHAAHIR;+AL-BAATIN;+AL-WAALI;+AL-MUTA’ALI;+AL-BARR;+AT-TAWWAB;+AL-MUNTAQIM;+AL-‘AFUWW;+AR-RA’OOF;+MAALIK-UL-MULK;+DHUL-JALAALI+WAL-IKRAAM;+AL-MUQSIT;+AL-JAAMI’;+AL-GHANIYY;+AL-MUGHNI;+AL-MANI’;+AD-DHARR;+AN-NAFI’;+AN-NUR;+AL-HAADI;+AL-BADIE’;+AL-BAAQI;+AL-WAARITH;+AR-RASHEED;+AS-SABOOR;" />
 </h1>
 
 <!-- <h1 align="center">
@@ -53,11 +51,32 @@ Software Engineer
 * 🤝  I'm open to collaborating on Flutter Based Project
 -->
 
-### Skills
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+##  Skills
+
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase,java,c,cpp,html,css,git,py,github,figma,bash,gradle,idea,kali,mysql,sqlite,visualstudio,vscode,md,stackoverflow,obsidian,fastapi)](https://skillicons.dev)
+
+<!-- <p align="left">
+     <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a> 
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+    https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg
+</p> -->
 
 ### Socials
 
@@ -77,15 +96,22 @@ Software Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nayeemx11"><img src="https://github-readme-stats.vercel.app/api?username=nayeemx11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="nayeemx11's GitHub stats" /></a>
-
-<a href="http://www.github.com/nayeemx11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeemx11&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="http://www.github.com/nayeemx11">
+    <img src="https://github-readme-stats.vercel.app/api?username=nayeemx11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="nayeemx11's GitHub stats" />
+  </a>
+  <a href="http://www.github.com/nayeemx11">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeemx11&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="nayeemx11's GitHub streak stats" />
+  </a>
+</div>
 
 <a href="https://github.com/nayeemx11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeemx11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/nayeemx11/mediag" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nayeemx11&repo=mediag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
 <!--
 
 ### Hi there 👋
