@@ -5,7 +5,7 @@
 </h1> --->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=AR-RAHMAAN;+AR-RAHEEM;+AL-MALIK;+AL-QUDDUS;+AS-SALAM;+AL-MU’MIN;+AL-MUHAYMIN;+AL-AZEEZ;+AL-JABBAR;+AL-MUTAKABBIR;+AL-KHAALIQ;+AL-BAARI’;+AL-MUSAWWIR;+AL-GHAFFAR;+AL-QAHHAR;+AL-WAHHAAB;+AR-RAZZAAQ;+AL-FATTAAH;+AL-‘ALEEM;+AL-QAABID;+AL-BAASIT;+AL-KHAAFIDH;+AR-RAAFI’;+AL-MU’IZZ;+AL-MUZIL;+AS-SAMEE’;+AL-BASEER;+AL-HAKAM;+AL-‘ADL;+AL-LATEEF;+AL-KHABEER;+AL-HALEEM;+AL-‘ATHEEM;+AL-GHAFOOR;+ASH-SHAKOOR;+AL-‘ALEE;+AL-KABEER;+AL-HAFEEDH;+AL-MUQEET;+AL-HASEEB;+AL-JALEEL;+AL-KAREEM;+AR-RAQEEB;+AL-MUJEEB;+AL-WAASI’;+AL-HAKEEM;+AL-WADOOD;+AL-MAJEED;+AL-BA’ITH;+ASH-SHAHEED;+AL-HAQQ;+AL-WAKEEL;+AL-QAWIYY;+AL-MATEEN;+AL-WALIYY;+AL-HAMEED;+AL-MUHSEE;+AL-MUBDI;+AL-MU’ID;+AL-MUHYEE;+AL-MUMEET;+AL-HAYY;+AL-QAYYOOM;+AL-WAAJID;+AL-MAAJID;+AL-WAAHID;+AL-AHAD;+AS-SAMAD;+AL-QADIR;+AL-MUQTADIR;+AL-MUQADDIM;+AL-MU’AKHKHIR;+AL-AWWAL;+AL-AAKHIR;+AZ-DHAAHIR;+AL-BAATIN;+AL-WAALI;+AL-MUTA’ALI;+AL-BARR;+AT-TAWWAB;+AL-MUNTAQIM;+AL-‘AFUWW;+AR-RA’OOF;+MAALIK-UL-MULK;+DHUL-JALAALI+WAL-IKRAAM;+AL-MUQSIT;+AL-JAAMI’;+AL-GHANIYY;+AL-MUGHNI;+AL-MANI’;+AD-DHARR;+AN-NAFI’;+AN-NUR;+AL-HAADI;+AL-BADIE’;+AL-BAAQI;+AL-WAARITH;+AR-RASHEED;+AS-SABOOR;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=AR-RAHMAAN;+AR-RAHEEM;+AL-MALIK;+AL-QUDDUS;+AS-SALAM;+AL-MU’MIN; +AL-MUHAYMIN; +AL-AZEEZ; +AL-JABBAR; +AL-MUTAKABBIR; +AL-KHAALIQ; +AL-BAARI’; +AL-MUSAWWIR; +AL-GHAFFAR; +AL-QAHHAR; +AL-WAHHAAB; +AR-RAZZAAQ; +AL-FATTAAH; +AL-‘ALEEM; +AL-QAABID; +AL-BAASIT; +AL-KHAAFIDH; +AR-RAAFI’; +AL-MU’IZZ; +AL-MUZIL; +AS-SAMEE’; +AL-BASEER; +AL-HAKAM; +AL-‘ADL; +AL-LATEEF; +AL-KHABEER; +AL-HALEEM; +AL-‘ATHEEM; +AL-GHAFOOR; +ASH-SHAKOOR; +AL-‘ALEE; +AL-KABEER; +AL-HAFEEDH; +AL-MUQEET; +AL-HASEEB; +AL-JALEEL; +AL-KAREEM; +AR-RAQEEB; +AL-MUJEEB; +AL-WAASI’; +AL-HAKEEM; +AL-WADOOD; +AL-MAJEED; +AL-BA’ITH; +ASH-SHAHEED; +AL-HAQQ; +AL-WAKEEL; +AL-QAWIYY; +AL-MATEEN; +AL-WALIYY; +AL-HAMEED; +AL-MUHSEE; +AL-MUBDI; +AL-MU’ID; +AL-MUHYEE; +AL-MUMEET; +AL-HAYY; +AL-QAYYOOM; +AL-WAAJID; +AL-MAAJID; +AL-WAAHID; +AL-AHAD; +AS-SAMAD; +AL-QADIR; +AL-MUQTADIR; +AL-MUQADDIM; +AL-MU’AKHKHIR; +AL-AWWAL; +AL-AAKHIR; +AZ-DHAAHIR; +AL-BAATIN; +AL-WAALI; +AL-MUTA’ALI; +AL-BARR; +AT-TAWWAB; +AL-MUNTAQIM; +AL-‘AFUWW; +AR-RA’OOF; +MAALIK-UL-MULK; +DHUL-JALAALI+WAL-IKRAAM; +AL-MUQSIT; +AL-JAAMI’; +AL-GHANIYY; +AL-MUGHNI; +AL-MANI’; +AD-DHARR; +AN-NAFI’; +AN-NUR; +AL-HAADI; +AL-BADIE’; +AL-BAAQI; +AL-WAARITH; +AR-RASHEED; +AS-SABOOR; " />
 </h1>
 
 <!-- <h1 align="center">
@@ -29,8 +29,6 @@ Software Engineer
 
  -->
 
-
-
 <div align="left">
     <h4> 🌍  I'm from Bangladesh </h4>
     <h4> ✉️  You can contact me at <a href="mailto:nayeemx11@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
@@ -51,7 +49,6 @@ Software Engineer
 * 🤝  I'm open to collaborating on Flutter Based Project
 -->
 
-
 <br>
 <br>
 <br>
@@ -63,6 +60,7 @@ Software Engineer
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase,java,c,cpp,html,css,git,py,github,figma,bash,gradle,idea,kali,mysql,sqlite,visualstudio,vscode,md,stackoverflow,obsidian,fastapi)](https://skillicons.dev)
 
 <!-- <p align="left">
+
      <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a> 
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
@@ -76,6 +74,7 @@ Software Engineer
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
     https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg
+
 </p> -->
 
 ### Socials
@@ -96,12 +95,14 @@ Software Engineer
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; ">
   <a href="http://www.github.com/nayeemx11">
     <img src="https://github-readme-stats.vercel.app/api?username=nayeemx11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="nayeemx11's GitHub stats" />
+
   </a>
   <a href="http://www.github.com/nayeemx11">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeemx11&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="nayeemx11's GitHub streak stats" />
+
   </a>
 </div>
 
@@ -109,8 +110,28 @@ Software Engineer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/nayeemx11/mediag" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nayeemx11&repo=mediag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/nayeemx11/mediag" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nayeemx11&repo=mediag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div>
 
+<div width="100%" align="center">
+    <a href="https://github.com/nayeemx11/task_manager_todo" align="left">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nayeemx11&repo=task_manager_todo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" />
+    </a>
+
+</div>
+
+<div width="100%" align="center">
+    <a href="https://github.com/nayeemx11/task_manager_todo" align="left">
+        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nayeemx11&repo=task_manager_todo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" />
+    </a>
+    <div style="margin-left: 50%; ">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+            <path d="M8 .753l1.747 4.682 4.68 1.748-4.68 1.75L8 11.245l-1.748-4.682-4.68-1.75 4.68-1.747L8 .753zm0 2.634L6.732 5.018l-3.285 1.227 3.286 1.228L8 4.387l1.268 3.086 3.286-1.228-3.286-1.227L8 3.387z"/>
+        </svg>
+        <span>Your Custom Description Goes Here!</span>
+    </div>
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
 
 <!--
 
@@ -129,3 +150,4 @@ Here are some ideas to get you started:
 * 😄 Pronouns: ...
 * ⚡ Fun fact: ...
 -->
+# folder
