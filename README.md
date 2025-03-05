@@ -14,7 +14,9 @@
 
 </h1> -->
 
-<h1 align="center"><font face="Arial">As-salamu alaykum !<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> <br> I'am Md. Abu Hassan Nayeem</font></h1>
+<h1 align="center"><font face="Arial">As-salamu alaykum !
+   <!-- <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> -->
+<br> I'am Md. Abu Hassan Nayeem</font></h1>
 
 -----------------
 
